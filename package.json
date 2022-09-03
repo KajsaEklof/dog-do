@@ -13,7 +13,7 @@
     "lintfix": "prettier --write --list-different . && yarn lint:js --fix"
   },
   "dependencies": {
-    "@chakra-ui/nuxt": "^0.4.2",
+    "@chakra-ui/nuxt": "^0.5.0",
     "@nuxtjs/emotion": "^0.1.0",
     "core-js": "^3.19.3",
     "nuxt": "^2.15.8",
